@@ -1044,6 +1044,10 @@ hi! link coffeeBracket GruvboxOrange
 
 hi! link rubyStringDelimiter GruvboxGreen
 hi! link rubyInterpolationDelimiter GruvboxAqua
+hi! link rubyOperator GruvboxOrange
+hi! link rubyArrayDelimiter GruvboxOrange
+hi! link rubyCurlyBlockDelimiter GruvboxOrange
+hi! link rubyDefine GruvboxBlue
 
 " }}}
 " ObjectiveC: {{{
