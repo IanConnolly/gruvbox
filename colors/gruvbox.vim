@@ -505,6 +505,10 @@ hi! link Question GruvboxOrangeBold
 " Warning messages
 hi! link WarningMsg GruvboxRedBold
 
+" BufTabLine
+hi! link BufTabLineCurrent GruvboxOrangeBold
+hi! link BufTabLineActive  GruvboxYellow
+
 " }}}
 " Gutter: {{{
 
